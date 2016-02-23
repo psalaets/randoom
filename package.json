@@ -11,6 +11,7 @@
     "number",
     "generator"
   ],
+  "homepage": "https://github.com/psalaets/randoom#readme",
   "author": "",
   "license": "MIT",
   "devDependencies": {
